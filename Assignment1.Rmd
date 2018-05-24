@@ -4,5 +4,23 @@ author: 'Bharath Katukuri'
 output: html_document
 ---
 
+## Bharath Katukuri
 
+### Professional Back Ground
+
+* BI Consultant - 2006 to 2018
+   * Clients - Citigroup, Mckesson, THMP, State of Texas, HealthWays, HP(EDS)
+   * Currently working as Lead Data Analyst/Project Coordinator for Citigroup Regional GCT PMO 
+   
+### Skill Sets
+
+* SAP BI, Cognos BI, SQL, Power BI, Excel, Data Analytics, Planview PPM.
+
+### Interests
+
+* Movies, Playing Cricket and Volleyball.
+
+```{r}
+# I'm learning data science!
+```
 
