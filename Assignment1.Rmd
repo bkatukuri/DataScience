@@ -20,6 +20,7 @@ output: html_document
 
 * Movies, Playing Cricket and Volleyball.
 
+![](https://cdn-images-1.medium.com/max/1600/1*BU5pD0cRXEmagbMLC3YF6Q.jpeg)
 ```{r}
 # I'm learning data science!
 ```
